@@ -12,11 +12,19 @@ This document describes one of the challenges for those interested in working wi
 
 ## Haven't applied yet? No problem!
 
-If you've stumbled upon this document and like what you're reading, but perhaps your CV is not polished yet, don't worry! You can jump straight into the challenge. Once done, refer to [The Handover](#the-hangover-handover) to get in touch!
+If you've stumbled upon this document and like what you're reading, but perhaps your CV is not polished yet, don't worry! You can jump straight into one of our challenges (you only need to do one). Once done, refer to [The Handover](#the-hangover-handover) to get in touch!
 
-## The Challenge
+## The Challenges
+
+### Streaming Twitter Tweets
 
 A client wants to build a web-based application (and relevant infrastructure) to stream Twitter tweets to end-users in real-time.
+
+### Log Aggregator
+
+Our system admins need to collect log data from all of our servers (luckily the logging agent has already been written).  The agent needs an endpoint to send data too, and the system admins need a web client to be able to view the log data.  Design and build with the future in mind - can we resell this product?
+
+## Scope
 
 Given the amount of work, the client has agreed to an [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product), but only if our best engineer is involved. This is where you come in! :tada:
 

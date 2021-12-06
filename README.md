@@ -2,7 +2,7 @@
 
 Hi! :wave:
 
-Whether you have been sent here by one of our recruitment ninjas, or stumbled upon it by accident, we're excited you're here! We are the leading mobile innovation and app development company from Oslo, Norway. :norway: Nobody in Norway has delivered more apps than us!
+Whether you have been sent here by one of our recruitment ninjas, or stumbled upon it by accident, we're excited you're here! We are the leading mobile innovation and app development company from Oslo, Norway. :norway: Nobody in Norway has delivered more apps than us! And while we are *from* Oslo, we've also expanded our Norwegian operation to Bergen, and also work in Denmark :denmark:, Romania :romania:, and Sweden :sweden:.
 
 <p align="center">
   <a href="https://www.shortcut.no/why"><img src="https://i.imgur.com/U3obmEd.png"/></a>
@@ -46,19 +46,27 @@ We really appreciate the time and effort it took to complete the task! :heart: W
 
 Please include a README file with a quick and dirty description of your solution, the thought process, and any points you'd like to highlight. It will help us during the review, where we'll look at:
 
-- your VCS history, with hopefully more than 1 commit,
-- the project structure,
-- the project architecture,
-- good coding practices,
-- consistent coding style and formatting,
-- namings and naming conventions,
-- good use of comments,
+- your VCS history, with hopefully more than 1 commit
+- the project structure
+- the project architecture
+- good coding practices
+- consistent coding style and formatting
+- names and naming conventions
+- good use of comments
 - lint warnings and code smells
 - unit & integration tests
 
 ## The End
 
-We don't like goodbyes, so why not stay in touch? Follow us on [LinkedIn](https://no.linkedin.com/company/shortcut-as) and [Twitter](https://twitter.com/shortcut_no). We also appreciate any feedback you may have regarding this coding assignment, good or bad. Send an email to [post@shortcut.no](mailto:post@shortcut.no) and let us know how we're doing!
+We don't like goodbyes, so why not stay in touch? Follow us on LinkedIn
+[:norway:](https://no.linkedin.com/company/shortcut-as)
+[:denmark:](https://www.linkedin.com/company/shortcut-global/)
+[:romania:](https://www.linkedin.com/company/shortcut-bucharest/)
+[:sweden:](https://www.linkedin.com/company/shortcut-sweden)
+and Twitter
+[:norway:](https://twitter.com/shortcut_no)
+[:sweden:](https://twitter.com/shortcut_se).
+We also appreciate any feedback you may have regarding this coding assignment, good or bad. Send an email to [post@shortcut.no](mailto:post@shortcut.no) and let us know how we're doing!
 
 Takk for nå!
 
